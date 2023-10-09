@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>resep masakan</title>
+</head>
+<body>
+    <h2 style="text-align: center;">Masak Bersama Mas Yidoo</h1>
+    <h4 style="font-size: 20px;">Ayam Tepung</h4>
+    <p style="font-size: 18px;">
+    <img src="./ayam.jpeg" width="225" alt="bintang"align="right" hspace="50" vspace="10" style="border-radius: 10px;">
+    Bahan-bahan :
+    <ul style="list-style-type: '🤠'">
+        <li>1 kg ayam</li>
+        <li>2 tepung instan</li>
+        <li>kaldu jamur</li>
+        <li>kaldu ayam</li>
+    <hr>
+    <h2>Langkah pembuatan : </h2>
+    <p style="font-size:18px">
+        <ol type="1">
+            <li>
+                potong ayam yang sudah dicuci bersih
+                <br>
+                <img src="./ayam mentah.jpeg" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                masukkan tepung instan dan beberapa penyedap lainnya
+                <br>
+                <img src="./ayam tepung.jpeg" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                goreng di minyak yang panas 
+                <br>
+                <img src="./ayam goreng.jpg" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                sajikan dan beri saos 
+                <br>
+                <img src="./ayam jadi.jpg" width="150" style="border-radius: 10px;">
+            </li>
+        </ol>
+    </p>
+</body>
+</html>
