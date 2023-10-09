@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dongeng</title>
+    <style>
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: left;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav align="left">
+            <a href="webdongeng.html">HOME</a>
+            <a href="pengarang.html">ABOUT</a>
+            <a href="dongeng.html">DONGENG</a>
+        </nav>
+    </header>
+<br>
+<br>
+    <center><img src="kancil.jpeg" width="400" height="500" walt="Alice in Wonderland"></center>
+   <br>
+   <br>
+   <h1><center>Dongeng Petualangan Si Kancil</center></h1>
+   <p align="left">Dongeng, cerita, dan semacamnya merupakan sarana yang cukup efektif untuk membentuk karakter anak yang berbudi pekerti mulia. Lebih dari itu, dongeng juga bisa meningkatkan keterampilan berbahasa anak, meningkatkan minat baca, memupuk daya imajinasi, dan juga memperat ikatan emosional anak dengan orang tuanya. Oleh karena itu, jangan bosan-bosan untuk membacakan dongeng kepada buah hati Anda tercinta. </p>
+   <p align="left">Lewat buku “Kumpulan Dongeng Petualangan Si Kancil” ini, buah hati Anda akan diajak untuk menyelami kisah-kisah kancil yang seru, menegangkan, sampai mengharu biru untuk diikuti. Tidak hanya itu saja, si kecil juga akan diajak untuk menghayati pesan moral yang terkandung di dalam setiap cerita. Adanya buku ini, diharapkan bisa membuat anak tumbuh menjadi pribadi yang hangat, bersahabat, dan juga memiliki budi pekerti yang mulia.</p>
+   <p align="left">Buku ini sendiri berisi kumpulan dongeng kancil pilihan yang sarat akan teladan. Disusun dengan gaya bahasa yang ringan dan sederhana, yang sesuai dengan tingkat pemahaman anak, sehingga anak jadi bisa lebih memahami cerita. Kemudian, buku ini juga dilengkapi dengan ilustrasi yang jenaka dan penuh dengan warna, sehingga si kecil akan merasa senang dengan membaca buku ini.</p>
+   <p align="left">Selamat mendongeng bersama si kecil!</p>
+   
+</body>
+</html>
